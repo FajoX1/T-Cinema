@@ -1,0 +1,5 @@
+aiohttp
+imageio
+numpy
+Pillow
+aiosqlite
