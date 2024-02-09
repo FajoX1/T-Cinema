@@ -6,31 +6,23 @@ T-Cinema is a simple terminal-based movie server, allowing users to connect via 
 
 1. Clone the repository to your local machine:
 
-<code>
-git clone https://github.com/fajox1/t-cinema
-</code>
+<pre><code>git clone https://github.com/fajox1/t-cinema</code></pre>
 
 2. Install the required dependencies:
 
-<code>
-pip install -r requirements.txt
-</code>
+<pre><code>pip install -r requirements.txt</code></pre>
 
-3. Create directory "films" and put films there
+3. Create directory <code>films</code> and put films there
 
-4. Open tcinema.db and put films data
+4. Open <code>tcinema.db</code> and put films data
 
 4. Start the server:
 
-<code>
-python3 tcinema.py
-</code>
+<pre><code>python3 tcinema.py</code></pre>
 
 4. Open a new terminal and connect to the server:
 
-<code>
-telnet localhost 2222
-</code>
+<pre><code>telnet localhost 2222</code></pre>
 
 ## Usage
 
