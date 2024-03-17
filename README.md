@@ -14,7 +14,7 @@ T-Cinema is a simple terminal-based movie server, allowing users to connect via 
 
 3. Create directory <code>films</code> and put films there
 
-4. Open <code>tcinema.db</code> and put films data
+4. Open <code>tcinema.db</code> via Sqlite Studio and put films data
 
 4. Start the server:
 
